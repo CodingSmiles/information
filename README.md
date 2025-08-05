@@ -1,1 +1,1 @@
-# information
+# Information page with details
